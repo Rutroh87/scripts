@@ -1,7 +1,6 @@
 
 # !/bin/bash
-# This script will set up the instructor demo files and student activity files for Web Dev day 1
-# Create demo directory for instructor
+
 sudo mkdir -p /home/instructor/Documents/demo
 cd /home/instructor/Documents/demo
 # Replace /etc/resolv.conf file to fix DNS issues around Docker pulls
