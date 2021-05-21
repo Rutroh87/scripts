@@ -1,4 +1,3 @@
-
 # !/bin/bash
 
 sudo mkdir -p /home/instructor/Documents/demo
